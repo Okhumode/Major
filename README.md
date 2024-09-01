@@ -56,13 +56,9 @@ ENTER
 ```sh
 screen -R Major
 ```
-### 8. Run main.py again
+### 8. Run launcher.py
 ```sh
-python main.py
-```
-### 9. Run clicker
-```sh
-2
+python launcher.py
 ```
 CTRL AD
-### 10. Close the VPS and open and run the next script
+### 9. Close the VPS and open and run the next script
